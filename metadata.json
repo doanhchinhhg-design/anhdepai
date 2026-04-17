@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Photo Studio",
+  "description": "Phòng chụp ảnh AI chuyên nghiệp, tạo ảnh thẻ và phục hồi ảnh cũ.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
